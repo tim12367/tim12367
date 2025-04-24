@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tim12367
 - 👀 I’m interested in 
-- 🌱 I’m currently learning python, raspberry pi
+- 🌱 I’m currently learning GCP, Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
